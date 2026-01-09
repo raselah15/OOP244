@@ -1,5 +1,5 @@
 # OPP244
-Arepo for my school work in OOP244 Subject
+A repo for my school work in OOP244 Subject
 
 - Student Number: 182801233
 - Name: Rasel Ahmmed
