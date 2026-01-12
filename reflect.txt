@@ -1,0 +1,5 @@
+I learned how to create a C++ console application using Xcode.
+I learned how to use GitHub with Matrix.
+I learned how to commit and push files to GitHub.
+This workshop helped me understand the workflow for future assignments.
+
