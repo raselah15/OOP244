@@ -63,3 +63,6 @@ Debug/
 *.exe
 *.out
 *.app
+.DS_Store
+Workshop 2/
+
