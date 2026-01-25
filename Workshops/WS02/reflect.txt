@@ -1,0 +1,22 @@
+Reflection – Workshop 02 (Dynamic Memory Allocation)
+
+In this workshop, I learned how to work with dynamic memory in C++ using raw pointers.
+I learned how to allocate memory dynamically using new and new[] and how to properly
+deallocate memory using delete and delete[]. Before this workshop, I had a basic idea
+about pointers, but this lab helped me understand how memory is actually managed at
+runtime and why memory leaks are dangerous.
+
+One important concept I learned was how to safely grow a dynamic array by creating a
+new larger array, copying old data, appending new data, and then freeing the old memory.
+I also learned why passing pointers by reference (int*& and Samples*&) is required when
+a function needs to modify the original pointer itself.
+
+The biggest difficulty I faced was managing file structure and Git repositories.
+At one point, I accidentally copied another repository inside my main repository,
+which caused confusion during git commits. However, after understanding how Git tracks
+files, I was able to fix the issue and keep my project clean.
+
+This workshop helped me gain confidence in memory management and modular programming.
+I think more visual examples during lectures would help students understand dynamic
+memory concepts faster. Overall, this workshop was challenging but very helpful.
+
