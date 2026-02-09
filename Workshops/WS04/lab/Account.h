@@ -12,9 +12,10 @@ namespace seneca {
       int m_number;
       double m_balance;
 
-   public:
-      Account();   // default constructor
+      void setEmpty();
 
+   public:
+      Account();
       Account(const char* holderName);
       Account(const char* holderName, int number, double balance);
 
@@ -34,13 +35,14 @@ namespace seneca {
       Account& operator+=(double value);
       Account& operator-=(double value);
 
-      Account& operator<<(Account& from);
-      Account& operator>>(Account& to);
+      Account& operator<<(Account& right);
+      Account& operator>>(Account& right);
 
       bool operator~() const;
 
       Account& operator++();
       Account operator++(int);
+
       Account& operator--();
       Account operator--(int);
    };
