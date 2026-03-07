@@ -1,0 +1,7 @@
+During this workshop I learned how to work with dynamic memory and file handling in C++. The Numbers module helped me understand how to read numbers from a file and store them in a dynamically allocated array. I also learned how to sort numbers and calculate the largest, smallest, and average values.
+
+Another important concept I learned was the Rule of Three, which includes implementing the destructor, copy constructor, and copy assignment operator. These are important when working with dynamic memory to avoid memory leaks and ensure objects are copied safely.
+
+One difficulty I faced was understanding how to resize the dynamic array when adding a new number using the += operator. Managing memory correctly was challenging at first, but after practicing I understood the process.
+
+Overall, this workshop improved my understanding of object-oriented programming, dynamic memory management, and file input/output in C++.
