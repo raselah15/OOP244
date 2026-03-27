@@ -1,0 +1,21 @@
+In this workshop, I learned how to design and implement a proper C++ class using
+object-oriented programming principles. I practiced defining a class with private
+data members and public member functions, which helped me understand the concept
+of data encapsulation and privacy. I also learned how to use constructors and a
+destructor to manage dynamic memory safely, especially allocating and deallocating
+a C-style string inside a class.
+
+One of the most important lessons from this workshop was implementing a safe empty
+state and validating data before storing it in an object. Writing the validate()
+function helped me understand how to protect an object from invalid data. I also
+gained more confidence using const member functions and understanding when a
+function should or should not modify the object.
+
+The main difficulty I faced was managing dynamic memory correctly and avoiding
+memory leaks. Making sure that the destructor and helper functions handled memory
+properly required careful attention.
+
+Overall, this workshop helped strengthen my understanding of class design,
+constructors, destructors, and memory management. A small walkthrough example in
+class before starting the lab could make the workshop even clearer for beginners.
+

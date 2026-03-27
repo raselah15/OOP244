@@ -1,0 +1,20 @@
+In this workshop I learned how to organize a C++ program using modules and
+header files. I learned how to separate declarations and implementations
+using .h and .cpp files and how header guards prevent multiple inclusion
+errors. I also learned how function overloading works by implementing
+multiple versions of the same function name with different parameters.
+
+This workshop helped me understand how references are used to pass variables
+such as row counters and how pointers can be used to create a flexible view
+of data without modifying the original array. Sorting an array of pointers
+instead of sorting the actual data was a new and very useful concept for me.
+
+I faced difficulties while working with Xcode because it automatically
+created .hpp files and duplicate references. I also struggled with file
+extensions like .tsv and .txt, but I learned that these files must be created
+using Finder instead of Xcode templates.
+
+Overall, this workshop improved my understanding of modular programming,
+string manipulation without using <cstring>, and reading data from files.
+I feel more confident working with C-style strings and pointers after
+completing this workshop.
