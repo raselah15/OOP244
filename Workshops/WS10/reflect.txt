@@ -1,0 +1,5 @@
+In this workshop, I learned how to use function templates in C++ to create reusable and flexible functions. I implemented dynamic memory allocation using templates to copy arrays of different data types such as integers and custom objects like Name. I also learned how to safely manage memory by deleting previously allocated memory before allocating new memory.
+
+One of the challenges I faced was understanding how templates work with user-defined types and ensuring proper copying behavior. This workshop helped me understand how generic programming works in C++ and how templates can simplify code reuse.
+
+Overall, this workshop improved my understanding of dynamic memory management and template programming.\
